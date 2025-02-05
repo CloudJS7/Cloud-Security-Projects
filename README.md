@@ -1,6 +1,14 @@
 # Cloud-Security-Projects
 
-<h1>Key</h1>
+<h1>Key Projects</h1>
+
+- [Secured Azure Cosmos DB Keys with Azure Key Vault]()
+- [Secured Azure SQL Databse]()
+- [Key Rotation in Azure Key Vault]()
+- [Created a Private link service]()
+- [Service Endpoints and securing storage]()
+- [Filtered inbound Internet traffic with Azure Firewall policy DNAT]
+- [Configured Microsoft Sentinel enviroment]()
 
 <h2>Planed and Implemented Security for Virtual Networks</h2>
 
