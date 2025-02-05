@@ -10,7 +10,7 @@
 - [Filtered inbound Internet traffic with Azure Firewall policy DNAT]()
 - [Configured Microsoft Sentinel enviroment]()
 
-<h2>Planed and Implemented Security for Virtual Networks</h2>
+<h2>Security for Virtual Networks</h2>
 
 - [Understanding Network Security Group rules]()
 - [Configured Network Access to the VM]()
@@ -18,7 +18,7 @@
 - [Restricted network access to PaaS resources with virtual network service endpoints]()
 - [Used traffic manager to direct traffic to specific endpoints based on user subnet]()
 
-<h2>Planed and Implemented Security for Private Access to Azure Resources</h2>
+<h2>Security for Private Access to Azure Resources</h2>
 
 - [Created a private endpoint using an ARM template]()
 - [Created a private link service]()
@@ -27,7 +27,7 @@
 - [Created a private endpoint using Bicep]()
 - [Secured Azure Functions with Private Site Access]()
 
-<h2>Planed and Implemented Security for Public Access to Azure Resources</h2>
+<h2>Security for Public Access to Azure Resources</h2>
 
 - [Filtered inbound Internet traffic with Azure Firewall policy DNAT]()
 - [Deployed and configured Azure Firewall and policy using the Azure portal]()
@@ -37,19 +37,19 @@
 - [Created an Azure Front Door profile using Terraform]()
 - [Using Azure Front Door Endpoints with Azure Storage Accounts]()
 
-<h2>Planed and Implemented Security for Storage</h2>
+<h2>Security for Storage</h2>
 
 - [Service Endpoints and Securing Storage]()
 
-<h2>Planed, Implemented, and Managed Governance for Security</h2>
+<h2>Governance for Security</h2>
 
 - [Key Rotation in Azure Key Vault]()
 
-<h2>Configured and Managed Security Monitoring and Automation Solutions</h2>
+<h2>Security Monitoring and Automation Solutions</h2>
 
 - [Configured Microsoft Sentinel enviroment]()
 
-<h2>Configured and Managed Threat Protection by using Microsoft Defender for Cloud</h2>
+<h2>Threat Protection by using Microsoft Defender for Cloud</h2>
 
 - [Secured Azure SQL Database]()
 
