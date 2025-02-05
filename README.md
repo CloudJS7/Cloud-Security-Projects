@@ -7,7 +7,7 @@
 - [Key Rotation in Azure Key Vault]()
 - [Created a Private link service]()
 - [Service Endpoints and securing storage]()
-- [Filtered inbound Internet traffic with Azure Firewall policy DNAT]
+- [Filtered inbound Internet traffic with Azure Firewall policy DNAT]()
 - [Configured Microsoft Sentinel enviroment]()
 
 <h2>Planed and Implemented Security for Virtual Networks</h2>
