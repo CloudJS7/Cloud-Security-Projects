@@ -3,7 +3,7 @@
 <h2>Planed and Implemented Security for Virtual Networks</h2>
 
 - [Understanding Network Security Group rules]()
-- [Configured Network Access to the VM] ()
+- [Configured Network Access to the VM]()
 - [Created a Secure Site-to-Site VPN Connection Between Two Azure Virtual Networks]()
 - [Restricted network access to PaaS resources with virtual network service endpoints]()
 - [Used traffic manager to direct traffic to specific endpoints based on user subnet]()
