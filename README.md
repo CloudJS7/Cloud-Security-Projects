@@ -3,7 +3,7 @@
 <h1>Key Projects</h1>
 
 - [Secured Azure Cosmos DB Keys with Azure Key Vault]()
-- [Secured Azure SQL Databse]()
+- [Secured Azure SQL Database]()
 - [Key Rotation in Azure Key Vault]()
 - [Created a Private link service]()
 - [Service Endpoints and securing storage]()
