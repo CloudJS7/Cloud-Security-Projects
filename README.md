@@ -1,15 +1,5 @@
 # Cloud-Security-Projects
 
-<h1>Key Projects</h1>
-
-- [Secured Azure Cosmos DB Keys with Azure Key Vault]()
-- [Secured Azure SQL Database]()
-- [Key Rotation in Azure Key Vault]()
-- [Created a Private link service]()
-- [Service Endpoints and securing storage]()
-- [Filtered inbound Internet traffic with Azure Firewall policy DNAT]()
-- [Configured Microsoft Sentinel enviroment]()
-
 <h2>Security for Virtual Networks</h2>
 
 - [Understanding Network Security Group rules](https://github.com/KaizenJS7/Understanding-Network-Security-Group-Rules)
